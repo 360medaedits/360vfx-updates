@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://github.com/360medaedits/360vfx-updates/releases/tag/v2.0.0",
-  "downloadUrlMac": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.0/360VFX_macOS.zip",
-  "downloadUrlWin": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.0/360VFX_Windows.zip",
-  "notes": "First public release — Compatible with After Effects 2024 → 2026+"
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/360medaedits/360vfx-updates/releases/tag/v2.0.1",
+  "downloadUrlMac": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.1/360VFX_macOS.zip",
+  "downloadUrlWin": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.1/360VFX_Windows.zip",
+  "notes": "Hardened security — new license key format (360V-XXXX-XXXX-XXXX-XXXX). Old keys no longer valid."
 }
