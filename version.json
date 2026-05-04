@@ -1,5 +1,7 @@
 {
   "version": "2.0.0",
-  "downloadUrl": "https://360media-store-production.up.railway.app/vfx/360VFX_Setup.zip",
-  "notes": "Initial release"
+  "downloadUrl": "https://github.com/360medaedits/360vfx-updates/releases/tag/v2.0.0",
+  "downloadUrlMac": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.0/360VFX_macOS.zip",
+  "downloadUrlWin": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.0/360VFX_Windows.zip",
+  "notes": "First public release — Compatible with After Effects 2024 → 2026+"
 }
