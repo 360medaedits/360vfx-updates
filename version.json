@@ -1,7 +1,7 @@
 {
-  "version": "2.0.3",
-  "downloadUrl": "https://github.com/360medaedits/360vfx-updates/releases/tag/v2.0.3",
-  "downloadUrlMac": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.3/360VFX_macOS.zip",
-  "downloadUrlWin": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.3/360VFX_Windows.zip",
-  "notes": "One-click in-panel update download — no more bouncing through GitHub."
+  "version": "2.0.4",
+  "downloadUrl": "https://github.com/360medaedits/360vfx-updates/releases/tag/v2.0.4",
+  "downloadUrlMac": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.4/360VFX_macOS.zip",
+  "downloadUrlWin": "https://github.com/360medaedits/360vfx-updates/releases/download/v2.0.4/360VFX_Windows.zip",
+  "notes": "Bug fixes — locked categories now unlock when their pack is loaded, license screen shows first, explicit Enter License button on trial badge."
 }
